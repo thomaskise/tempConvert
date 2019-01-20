@@ -9,7 +9,7 @@
     <title>Temperature Converter</title>
 
     <!-- Custom styles for this template -->
-<!--    <link href="css/default.css" rel="stylesheet"> -->
+   <link href="css/header.css" rel="stylesheet">
 
   </head>
 
@@ -23,5 +23,5 @@
     </header>
 
     <!-- Main Content -->
-    <h1 style="text-align:center;">Temperature Converter</h1>
+    <h1 class="website-title">Temperature Converter</h1>
 <!-- header ends here -->
