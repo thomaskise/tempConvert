@@ -9,7 +9,7 @@
     <title>Temperature Converter</title>
 
     <!-- Custom styles for this template -->
-    <link href="css/defaults.css" rel="stylesheet">
+    <link href="css/default.css" rel="stylesheet">
 
   </head>
 
