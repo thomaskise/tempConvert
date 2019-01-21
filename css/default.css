@@ -8,17 +8,31 @@ html {
     font-size: 1.15em;
 }
 
+body {
+    background-color:burlywood;
+}
+
 p.copyright {
     text-align: center;
     color: #444;
 }
 
 div input {
-    font-size: 1em;
+    font-size: 16px;
+    height:22px;
 }
 
 div select {
-    font-size:14px;
+    font-size:16px;
+    height:22px;
+}
+
+form div {
+    text-align:center;
+}
+
+form div div {
+    display:inline;
 }
 
 footer {
