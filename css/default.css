@@ -40,8 +40,18 @@ footer {
 }
 
 footer a {
-    color: #ff4e00;
-    font-style: italic;
+    color: #5609b9;
+    font-weight: bold;
+    pointer-events: auto;
+    text-decoration-color: rgb(14, 1, 1);
+}
+
+footer img {
+    margin-left: auto;
+    margin-right: auto;
+    height: 45px; 
+    width: 45px;
+
 }
 
 small {
