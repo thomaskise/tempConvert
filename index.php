@@ -51,17 +51,20 @@
     } else {//show a form
         echo '
                 <form action="index.php" method="post" name="TempCalc" id="tempCalcForm">                	
-                    <div style="text-align:center;">
+                    <div>
                         <p>Input a temperature, select the type and click Convert</p>
-                        <div style="display:inline;"><input type="text" name="inputValue" placeholder="e.g. 32" size="12" style="height:22px;display:inline;"></div>
-                        <div style="display:inline;">
-                            <select name="inputType" style="height:22px;">
+                        <div>
+                            <input type="text" name="inputValue" placeholder="e.g. 32" size="12" autofocus></div>
+                        <div>
+                            <select name="inputType">
                                 <option value="fahrenheit">Fahrenheit</option>
                                 <option value="celsius">Celsius</option>
-                                <option value="kelvin">Kelvin</option>		
+                                <option value="kelvin">Kelvin</option>	
                             </select>
                         </div> 
-                        <div style="display:inline;"> <input type="submit" value="Convert"></div>
+                        <div>
+                            <input type="submit" value="Convert">
+                        </div>
                     </div>		 	                        
                 </form>';
     }
