@@ -3,8 +3,8 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <meta name="description" content="">
-    <meta name="author" content="">
+    <meta name="description" content="Three way temperature conversion application">
+    <meta name="author" content="ITC 250 - Winter 2019 - Team 1 and Team 2">
 
     <title>Temperature Converter</title>
 
