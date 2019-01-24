@@ -23,5 +23,5 @@
     </header>
 
     <!-- Main Content -->
-    <h1 class="website-title">Temperature Converter</h1>
+    <div class="title"><h1 class="website-title">Temperature Converter</h1></div>
 <!-- header ends here -->
