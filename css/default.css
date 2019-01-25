@@ -1,14 +1,11 @@
-.title {
+h1.website-title {
+    text-align: center;
+    color: #110054;
     border-radius: 62px;
     margin: auto;
     border: 1px solid;
     width: 437px;
     background-color: #cccccc;
-}
-
-h1.website-title {
-    text-align: center;
-    color: #110054;
 }
 
 html {
